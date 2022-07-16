@@ -45,7 +45,7 @@ The above heat map highlights the number of bike trips by gender for each hour o
 
 
 ## Bikesharing Summary
-Based on all the information presented it is safe to deduce that most bike rides take place in the week early morning and early evening. This is a sign the most riders use it primarily as a means of transport to and from work as opposed to leisurly riding. This will be successful in Des Moines if the weather is favorable and if bike stations are located within a few minutes of peoples' jobs. Being that lots of people, mostly males participate in the ride sharing program in NYC it is prudent the population demographic of Des Moines is analyzed and visualized as NYC is a much bigger city. 
+Based on all the information presented it is safe to deduce that most bike rides take place early morning and early evening in the week. This tells us most riders use it primarily as a means of transport to and from work as opposed to leisurly. This will be successful in Des Moines if the weather is favorable and if bike stations are located within a few minutes of peoples' jobs. Being that lots of people, mostly males participate in the ride sharing program in NYC, it is prudent the population demographic of Des Moines is analyzed and visualized as NYC is a much bigger city. 
 
 
 
