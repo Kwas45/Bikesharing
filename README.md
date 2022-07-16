@@ -10,6 +10,10 @@ The purpose of this project is to create a proposal, which will be presented to 
 * >*Show the number of bike trips for each type of user and gender for each day of the week.* 
 
 
+## Tableau Dashboard
+[NYC Citibike Analysis](https://public.tableau.com/app/profile/kwasi6341/viz/NYCCitiBike_16569650804460/CITYBIKE?publish=yes)
+
+
 ## Bikesharing Results
 1.
 
